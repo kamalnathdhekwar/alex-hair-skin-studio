@@ -108,7 +108,7 @@ export default function Navbar() {
                 setOpen(false);
                 scrollTo(link.href);
               }}
-              className="text-primary-foreground/80 hover:text-accent text-base tracking-widest uppercase font-body transition-smooth bg-transparent border-0 cursor-pointer text-left"
+              className="text-white hover:text-accent text-base tracking-widest uppercase font-body transition-smooth bg-transparent border-0 cursor-pointer text-left"
             >
               {link.label}
             </button>
