@@ -163,15 +163,15 @@ export default function Footer() {
           <p className="text-primary-foreground/40 text-xs tracking-widest uppercase">
             © {year} Alex Hair &amp; Skin Studio. All Rights Reserved.
           </p>
-          <p className="text-primary-foreground/30 text-xs">
-            Built with love using{" "}
-            <a
-              href={`https://caffeine.ai?utm_source=caffeine-footer&utm_medium=referral&utm_content=${hostname}`}
+           <p className="text-salon-text-secondary text-xs">
+            Built with ❤️ By{" "}
+           <a
+              href={`https://www.instagram.com/kamalnath_06/`}
+              className="text-gold hover:text-gold-light transition-colors"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-accent/50 hover:text-accent transition-smooth"
             >
-              caffeine.ai
+             Kamalnath Dhekwar 🧑‍💻
             </a>
           </p>
         </div>
