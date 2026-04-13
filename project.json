@@ -1,0 +1,26 @@
+{
+  "overview": "A premium, fully responsive salon website for Alex Hair & Skin Studio — a unisex beauty salon in Nagpur. Features a black/white/gold luxury design with sections for services, pricing, gallery, testimonials, contact, and appointment booking.",
+  "features": [
+    "Hero section with tagline and Book Appointment CTA",
+    "About section",
+    "Services showcase (Haircut, Hair Treatment, Skin Care, Bridal Makeup, Beauty & Grooming)",
+    "Pricing section",
+    "Photo gallery",
+    "Customer reviews with 4.0 rating and 500+ reviews",
+    "Contact section with Google Map placeholder and social icons",
+    "Appointment booking form",
+    "Footer with social media links"
+  ],
+  "category": "business",
+  "tags": [
+    "salon",
+    "beauty",
+    "hair",
+    "nagpur",
+    "unisex",
+    "premium",
+    "responsive",
+    "marketing"
+  ],
+  "last_updated": "2026-04-13T13:52:59.296Z"
+}
